@@ -20,7 +20,7 @@ $("#usertxt").click(function(){
 
             }
             
-        if(user1=="Admin"&&pass=="123456")
+        if(user1=="admin"&&pass=="12345")
         {
         //    console.log("aaa");
         //    $("#us2").text(" loged");
